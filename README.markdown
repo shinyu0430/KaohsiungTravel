@@ -2,7 +2,7 @@
 
 標示文件：[https://hexschool.github.io/JavaScript_HomeWork/](https://hexschool.github.io/JavaScript_HomeWork/)
 <br>
-成品Demo：[https://shinyu0430.github.io/KaohsiungTravel/](https://eshinyu0430.github.io/KaohsiungTravel/)
+成品Demo：[https://shinyu0430.github.io/KaohsiungTravel/](https://shinyu0430.github.io/KaohsiungTravel/)
 
 基本功能需求：
 * 串接API取得資料
