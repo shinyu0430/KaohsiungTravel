@@ -267,6 +267,34 @@ h1, h2, h3, h4, h5, h6, span, p {
   color: #F5D005;
 }
 
+.pageBtn ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 30px;
+}
+
+.pageBtn a {
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  border: 1px solid #559AC8;
+  color: #559AC8;
+}
+
+.pageBtn a:hover {
+  background-color: #559AC8;
+  color: white;
+}
+
+.pageBtn .active {
+  background-color: #559AC8;
+  color: white;
+}
+
 footer {
   background-color: #559AC8;
   text-align: center;
